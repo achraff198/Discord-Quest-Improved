@@ -1,3 +1,4 @@
+```js
 delete window.$;
 
 let wpRequire = webpackChunkdiscord_app.push([[Symbol()], {}, r => r]);
@@ -209,3 +210,4 @@ if (activeQuests.length === 0) {
     console.log("All quests completed or processing done.");
   });
 }
+```
